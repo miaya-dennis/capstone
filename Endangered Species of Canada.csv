@@ -1,0 +1,255 @@
+id,Scientific Name,Common Name,Class,Conservation Status
+1,Eschrichtius Robustus,Atlantic Grey Whale,Mammal,Extirpated
+2,Mustela Nigripes,Black-Footed Ferret,Mammal,Extirpated
+3,Odobenus Rosmarus Rosmarus,Northwest Atlantic Atlantic Walrus,Mammal,Extirpated
+4,Balaenoptera Borealis,Pacific Sei Whale,Mammal,Endangered
+5,Balaenoptera Musculus,Atlantic Blue Whale,Mammal,Endangered
+6,Balaenoptera Musculus,Pacific Blue Whale,Mammal,Endangered
+7,Dipodomys Ordii,Ord's Kangaroo Rat,Mammal,Endangered
+8,Eubalaena Glacialis,North Atlantic Right Whale,Mammal,Endangered
+9,Eubalaena Japonica,North Pacific Right Whale,Mammal,Endangered
+10,Gulo Gulo,Eastern Wolverine,Mammal,Endangered
+11,Hyperoodon Ampullatus,Scotian Shelf Northern Bottlenose Whale,Mammal,Endangered
+12,Marmota Vancouverensis,Vancouver Island Marmot,Mammal,Endangered
+13,Martes Americana Atrata,Newfoundland American Marten,Mammal,Endangered
+14,Orcinus Orca,Northeast Pacific Southern Killer Whale,Mammal,Endangered
+15,Rangifer Tarandus Caribou,Atlantic-Gaspésie Woodland Caribou,Mammal,Endangered
+16,Scapanus Townsendii,Townsend's Mole,Mammal,Endangered
+17,Sorex Bendirii,Pacific Water Shrew,Mammal,Endangered
+18,Taxidea Taxus Jacksoni,Jacksoni' American Badger,Mammal,Endangered
+19,Taxidea Taxus Jeffersonii,Jeffersonii' American Badger,Mammal,Endangered
+20,Vulpes Velox,Swift Fox,Mammal,Endangered
+21,Antrozous Pallidus,Pallid Bat,Mammal,Threatened
+22,Balaenoptera Physalus,Pacific Fin Whale,Mammal,Threatened
+23,Bison Bison Athabascae,Wood Bison,Mammal,Threatened
+24,Enhydra Lutris,Sea Otter,Mammal,Threatened
+25,Delphinapterus Leucas,St. Lawrence Estuary Beluga Whale,Mammal,Threatened
+26,Mustela Haidarum,Haida Ermine,Mammal,Threatened
+27,Megaptera Novaeangliae,North Pacific Humpback Whale,Mammal,Threatened
+28,Orcinus Orca,Northeast Pacific Transient Killer Whale,Mammal,Threatened
+29,Orcinus Orca,Northeast Pacific Northern Resident Killer Whale,Mammal,Threatened
+30,Rangifer Tarandus Caribou,Boreal Woodland Caribou,Mammal,Threatened
+31,Rangifer Tarandus Caribou,Southern Mountain Woodland Caribou,Mammal,Threatened
+32,Urocyon Cinereoargenteus,Grey Fox,Mammal,Threatened
+33,Balaena Mysticetus,Bering-Chukchi-Beaufort Bowhead Whale,Mammal,Special Concern
+34,Balaenoptera Physalus,Atlantic Fin Whale,Mammal,Special Concern
+35,Canis Lycaon,Eastern Wolf,Mammal,Special Concern
+36,Cynomys Ludovicianus,Black-Tailed Prairie Dog,Mammal,Special Concern
+37,Eschrichtius Robustus,Eastern North Pacific Grey Whale,Mammal,Special Concern
+38,Euderma Maculatum,Spotted Bat,Mammal,Special Concern
+39,Eumetopias Jubatus,Steller Sea Lion,Mammal,Special Concern
+40,Microtus Pinetorum,Woodland Vole,Mammal,Special Concern
+41,Orcinus Orca,Northeast Pacific Offshore Killer Whale,Mammal,Special Concern
+42,Phocoena Phocoena,Pacific Ocean Harbour Porpoise,Mammal,Special Concern
+43,Rangifer Tarandus Caribou,Northern Mountain Woodland Caribou,Mammal,Special Concern
+44,Scalopus Aquaticus,Eastern Mole,Mammal,Special Concern
+45,Sylvilagus Nuttallii Nuttallii,Nuttall's Cottontail,Mammal,Special Concern
+46,Ursus Maritimus,Polar Bear,Mammal,Special Concern
+47,Tympanuchus Cupido,Greater Prairie-Chicken,Avian,Extirpated
+48,Ammodramus Henslowii,Henslow's Sparrow,Avian,Endangered
+49,Athene Cunicularia,Burrowing Owl,Avian,Endangered
+50,Centrocercus Urophasianus Urophasianus,Urophasianus' Greater Sage-Grouse,Avian,Endangered
+51,Charadrius Melodus Circumcinctus,Circumcinctus' Piping Plover,Avian,Endangered
+52,Charadrius Melodus Melodus,Melodus' Piping Plover,Avian,Endangered
+53,Charadrius Montanus,Mountain Plover,Avian,Endangered
+54,Colinus Virginianus,Northern Bobwhite,Avian,Endangered
+55,Dendroica Kirtlandii,Kirtland's Warbler,Avian,Endangered
+56,Empidonax Virescens,Acadian Flycatcher,Avian,Endangered
+57,Eremophila Alpestris Strigata,Strigata' Horned Lark,Avian,Endangered
+58,Grus Americana,Whooping Crane,Avian,Endangered
+59,Icteria Virens Auricollis,BC 'Auricollis' Yellow-Breasted Chat,Avian,Endangered
+60,Lanius Ludovicianus Migrans,Migrans' Loggerhead Shrike,Avian,Endangered
+61,Loxia Curvirostra Percna,Percna' Red Crossbill,Avian,Endangered
+62,Megascops Kennicottii Macfarlanei,Macfarlanei' Western Screech-Owl,Avian,Endangered
+63,Numenius Borealis,Eskimo Curlew,Avian,Endangered
+64,Oreoscoptes Montanus,Sage Thrasher,Avian,Endangered
+65,Picoides Albolarvatus,White-Headed Woodpecker,Avian,Endangered
+66,Pooecetes Gramineus Affinis,Affinis' Vesper Sparrow,Avian,Endangered
+67,Protonotaria Citrea,Prothonotary Warbler,Avian,Endangered
+68,Rallus Elegans,King Rail,Avian,Endangered
+69,Sphyrapicus Thyroideus,Williamson's Sapsucker,Avian,Endangered
+70,Sterna Dougallii,Roseate Tern,Avian,Endangered
+71,Strix Occidentalis Caurina,Caurina' Spotted Owl,Avian,Endangered
+72,Tyto Alba,Eastern Barn Owl,Avian,Endangered
+73,Accipiter Gentilis Laingi,Laingi' Northern Goshawk,Avian,Threatened
+74,Aegolius Acadicus Brooksi,Brooksi' Northern Saw-Whet Owl,Avian,Threatened
+75,Anthus Spragueii,Sprague's Pipit,Avian,Threatened
+76,Brachyramphus Marmoratus,Marbled Murrelet,Avian,Threatened
+77,Falco Peregrinus Anatum,Anatum' Peregrine Falcon,Avian,Threatened
+78,Ixobrychus Exilis,Least Bittern,Avian,Threatened
+79,Lanius Ludovicianus Excubitorides,Excubitorides' Loggerhead Shrike,Avian,Threatened
+80,Phoebastria Albatrus,Short-Tailed Albatross,Avian,Threatened
+81,Puffinus Creatopus,Pink-Footed Shearwater,Avian,Threatened
+82,Riparia Riparia,Bank Swallow,Avian,Threatened
+83,Rhodostethia Rosea,Ross' Gull,Avian,Threatened
+84,Vermivora Chrysoptera,Golden-Winged Warbler,Avian,Threatened
+85,Wilsonia Citrina,Hooded Warbler,Avian,Threatened
+86,Bucephala Islandica,Eastern Barrow's Goldeneye,Avian,Special Concern
+87,Coturnicops Noveboracensis,Yellow Rail,Avian,Special Concern
+88,Dendroica Cerulea,Cerulean Warbler,Avian,Special Concern
+89,Falco Peregrinus Pealei,Pealei' Peregrine Falcon,Avian,Special Concern
+90,Histrionicus Histrionicus,Eastern Harlequin Duck,Avian,Special Concern
+91,Icteria Virens Virens,Virens' Yellow-Breasted Chat,Avian,Special Concern
+92,Megascops Kennicottii Kennicottii,Kennicottii' Western Screech-Owl,Avian,Special Concern
+93,Melanerpes Lewis,Lewis' Woodpecker,Avian,Special Concern
+94,Numenius Americanus,Long-Billed Curlew,Avian,Special Concern
+95,Otus Flammeolus,Flammulated Owl,Avian,Special Concern
+96,Pagophila Eburnea,Ivory Gull,Avian,Special Concern
+97,Passerculus Sandwichensis Princeps,Princeps' Savannah Sparrow,Avian,Special Concern
+98,Rhynchophanes Mccownii,Thick-Billed Longspur,Avian,Special Concern
+99,Seiurus Motacilla,Louisiana Waterthrush,Avian,Special Concern
+100,Synthliboramphus Antiquus,Ancient Murrelet,Avian,Special Concern
+101,Tyto Alba,Western Barn Owl,Avian,Special Concern
+102,Actinemys Marmorata,Pacific Pond Turtle,Reptile,Extirpated
+103,Crotalus Horridus,Timber Rattlesnake,Reptile,Extirpated
+104,Phrynosoma Douglasii,Pygmy Short-Horned Lizard,Reptile,Extirpated
+105,Pituophis Catenifer Catenifer,Pacific Gophersnake,Reptile,Extirpated
+106,Chrysemys Picta Bellii,Pacific Coast Western Painted Turtle,Reptile,Endangered
+107,Clemmys Guttata,Spotted Turtle,Reptile,Endangered
+108,Coluber Constrictor Foxii,Blue Racer,Reptile,Endangered
+109,Contia Tenuis,Sharp-Tailed Snake,Reptile,Endangered
+110,Dermochelys Coriacea,Leatherback Seaturtle,Reptile,Endangered
+111,Emydoidea Blandingii,Nova Scotia Blanding's Turtle,Reptile,Endangered
+112,Eumeces Septentrionalis,Prairie Skink,Reptile,Endangered
+113,Hypsiglena Torquata,Nightsnake,Reptile,Endangered
+114,Apalone Spinifera,Spiny Softshell,Reptile,Threatened
+115,Coluber Constrictor Flaviventris,Eastern Yellow-Bellied Racer,Reptile,Threatened
+116,Crotalus Oreganus,Western Rattlesnake,Reptile,Threatened
+117,Elaphe Gloydi,Eastern Foxsnake,Reptile,Threatened
+118,Elaphe Spiloides,Grey Ratsnake,Reptile,Threatened
+119,Emydoidea Blandingii,Great Lakes/St. Lawrence Blanding's Turtle,Reptile,Threatened
+120,Heterodon Platirhinos,Eastern Hog-Nosed Snake,Reptile,Threatened
+121,Pituophis Catenifer Deserticola,Great Basin Gophersnake,Reptile,Threatened
+122,Regina Septemvittata,Queen Snake,Reptile,Threatened
+123,Sistrurus Catenatus,Massasauga,Reptile,Threatened
+124,Sternotherus Odoratus,Stinkpot,Reptile,Threatened
+125,Thamnophis Butleri,Butler's Gartersnake,Reptile,Threatened
+126,Thamnophis Sauritus,Atlantic Eastern Ribbonsnake,Reptile,Threatened
+127,Charina Bottae,Rubber Boa,Reptile,Special Concern
+128,Chrysemys Picta Bellii,Intermountain-Rocky Mountain Western Painted Turtle,Reptile,Special Concern
+129,Coluber Constrictor Mormon,Western Yellow-Bellied Racer,Reptile,Special Concern
+130,Eumeces Skiltonianus,Western Skink,Reptile,Special Concern
+131,Graptemys Geographica,Northern Map Turtle,Reptile,Special Concern
+132,Lampropeltis Triangulum,Milksnake,Reptile,Special Concern
+133,Thamnophis Sauritus,Great Lakes Eastern Ribbonsnake,Reptile,Special Concern
+134,Ambystoma Tigrinum,Great Lakes Tiger Salamander,Amphibian,Extirpated
+135,Acris Crepitans,Northern Cricket Frog,Amphibian,Endangered
+136,Ambystoma Texanum,Small-Mouthed Salamander,Amphibian,Endangered
+137,Ambystoma Tigrinum,Southern Mountain Tiger Salamander,Amphibian,Endangered
+138,Ascaphus Montanus,Rocky Mountain Tailed Frog,Amphibian,Endangered
+139,Rana Pipiens,Southern Mountain Northern Leopard Frog,Amphibian,Endangered
+140,Rana Pretiosa,Oregon Spotted Frog,Amphibian,Endangered
+141,Ambystoma Jeffersonianum,Jefferson Salamander,Amphibian,Threatened
+142,Bufo Fowleri,Fowler's Toad,Amphibian,Threatened
+143,Desmognathus Ochrophaeus,Allegheny Mountain Dusky Salamander,Amphibian,Threatened
+144,Dicamptodon Tenebrosus,Coastal Giant Salamander,Amphibian,Threatened
+145,Spea Intermontana,Great Basin Spadefoot,Amphibian,Threatened
+146,Ascaphus Truei,Coast Tailed Frog,Amphibian,Special Concern
+147,Bufo Boreas,Western Toad,Amphibian,Special Concern
+148,Bufo Cognatus,Great Plains Toad,Amphibian,Special Concern
+149,Gyrinophilus Porphyriticus,Spring Salamander,Amphibian,Special Concern
+150,Plethodon Idahoensis,Coeur D'Alene Salamander,Amphibian,Special Concern
+151,Rana Aurora,Red-Legged Frog,Amphibian,Special Concern
+152,Rana Pipiens,Western Boreal/Prairie Northern Leopard Frog,Amphibian,Special Concern
+153,Erimystax X-Punctatus,Gravel Chub,Fish,Extirpated
+154,Polyodon Spathula,Paddlefish,Fish,Extirpated
+155,Acipenser Transmontanus,White Sturgeon,Fish,Endangered
+156,Catostomus Catostomus Subsp.,Salish Sucker,Fish,Endangered
+157,Coregonus Huntsmani,Atlantic Whitefish,Fish,Endangered
+158,Coregonus Reighardi,Shortnose Cisco,Fish,Endangered
+159,Gasterosteus Sp.,Benthic Enos Lake Stickleback,Fish,Endangered
+160,Gasterosteus Sp.,Benthic Paxton Lake Stickleback,Fish,Endangered
+161,Gasterosteus Sp.,Benthic Vananda Creek Stickleback,Fish,Endangered
+162,Gasterosteus Sp.,Limnetic Enos Lake Stickleback,Fish,Endangered
+163,Gasterosteus Sp.,Limnetic Paxton Lake Stickleback,Fish,Endangered
+164,Gasterosteus Sp.,Limnetic Vananda Creek Stickleback,Fish,Endangered
+165,Lampetra Richardsoni,Morrison Creek Lamprey,Fish,Endangered
+166,Moxostoma Hubbsi,Copper Redhorse,Fish,Endangered
+167,Notropis Anogenus,Pugnose Shiner,Fish,Endangered
+168,Noturus Stigmosus,Northern Madtom,Fish,Endangered
+169,Rhinichthys Cataractae Subsp.,Nooksack Dace,Fish,Endangered
+170,Salmo Salar,Inner Bay of Fundy Atlantic Salmon,Fish,Endangered
+171,Salvelinus Fontinalis Timagamiensis,Aurora Trout,Fish,Endangered
+172,Ammocrypta Pellucida,Eastern Sand Darter,Fish,Threatened
+173,Anarhichas Denticulatus,Northern Wolffish,Fish,Threatened
+174,Anarhichas Minor,Spotted Wolffish,Fish,Threatened
+175,Cottus Confusus,Shorthead Sculpin,Fish,Threatened
+176,Cottus Sp.,Cultus Pygmy Sculpin,Fish,Threatened
+177,Cottus Sp.,St. Mary and Milk River Eastslope Sculpin,Fish,Threatened
+178,Erimyzon Sucetta,Lake Chubsucker,Fish,Threatened
+179,Hybognathus Argyritis,Western Silvery Minnow,Fish,Threatened
+180,Lampetra Macrostoma,Vancouver Lamprey,Fish,Threatened
+181,Lepisosteus Oculatus,Spotted Gar,Fish,Threatened
+182,Notropis Percobromus,Carmine Shiner,Fish,Threatened
+183,Osmerus Spectrum,Lake Utopia Dwarf Smelt,Fish,Threatened
+184,Percina Copelandi,Channel Darterm,Fish,Threatened
+185,Acipenser Medirostris,Green Sturgeon,Fish,Special Concern
+186,Anarhichas Lupus,Atlantic Wolffish,Fish,Special Concern
+187,Coregonus Kiyi Kiyi,Upper Great Lakes Kiyi,Fish,Special Concern
+188,Cottus Hubbsi,Columbia Sculpin,Fish,Special Concern
+189,Esox Americanus Vermiculatus,Grass Pickerel,Fish,Special Concern
+190,Fundulus Diaphanus,Newfoundland Banded Killifish,Fish,Special Concern
+191,Fundulus Notatus,Blackstripe Topminnow,Fish,Special Concern
+192,Lepomis Gulosus,Warmouth,Fish,Special Concern
+193,Macrhybopsis Storeriana,Silver Chub,Fish,Special Concern
+194,Minytrema Melanops,Spotted Sucker,Fish,Special Concern
+195,Moxostoma Carinatum,River Redhorse,Fish,Special Concern
+196,Myoxocephalus Thompsonii,Great Lakes-Western St. Lawrence Deepwater Sculpin,Fish,Special Concern
+197,Notropis Bifrenatus,Bridle Shiner,Fish,Special Concern
+198,Opsopoeodus Emiliae,Pugnose Minnow,Fish,Special Concern
+199,Callophrys (Incisalia) Irus,Frosted Elfin,Arthropod,Extirpated
+200,Euchloe Ausonides,Island Marble,Arthropod,Extirpated
+201,Plebejus Melissa Samuelis,Karner Blue,Arthropod,Extirpated
+202,Apodemia Mormo,Southern Mountain Mormon Metalmark,Arthropod,Endangered
+203,Bombus Affinis,Rusty-Patched Bumble Bee,Arthropod,Endangered
+204,Bombus Bohemicus,Gypsy Cuckoo Bumble Bee,Arthropod,Endangered
+205,Brychius Hungerfordi,Hungerford's Crawling Water Beetle,Arthropod,Endangered
+206,Cicindela Patruela,Northern Barrens Tiger Beetle,Arthropod,Endangered
+207,Coenonympha Nipisiquit,Maritime Ringlet,Arthropod,Endangered
+208,Copablepharon Fuscum,Sand-Verbena Moth,Arthropod,Endangered
+209,Erynnis Persius Persius,Eastern Persius Duskywing,Arthropod,Endangered
+210,Erynnis Martialis,Mottled Duskywing,Arthropod,Endangered
+211,Euphydryas Editha Taylori,Taylor's Checkerspot,Arthropod,Endangered
+212,Gomphus Ventricosus,Skillet Clubtail,Arthropod,Endangered
+213,Hemileuca Sp.,Bogbean Buckmoth,Arthropod,Endangered
+214,Hesperia Ottoe,Ottoe Skipper,Arthropod,Endangered
+215,Papaipema Aweme,Aweme Borer,Arthropod,Endangered
+216,Icaricia Saepiolus Insulanus,Island Blue,Arthropod,Endangered
+217,Prodoxus Quinquepunctellus,Five-Spotted Bogus Yucca Moth,Arthropod,Endangered
+218,Satyrium Semiluna,Half-Moon Hairstreak,Arthropod,Endangered
+219,Schinia Avemensis,Gold-Edged Gem,Arthropod,Endangered
+220,Schinia Bimatris,White Flower Moth,Arthropod,Endangered
+221,Somatochlora Hineana,Hine's Emerald,Arthropod,Endangered
+222,Stylurus Amnicola,Riverine Clubtail,Arthropod,Endangered
+223,Stylurus Laurae,Laura's Clubtail,Arthropod,Endangered
+224,Stylurus Olivaceus,Olive Clubtail,Arthropod,Endangered
+225,Tegeticula Corruptrix,Non-Pollinating Yucca Moth,Arthropod,Endangered
+226,Tegeticula Yuccasella,Yucca Moth,Arthropod,Endangered
+227,Apodemia Mormo,Prairie Mormon Metalmark,Arthropod,Threatened
+228,Euphyes Vestris,Western Dun Skipper,Arthropod,Threatened
+229,Hesperia Dacotae,Dakota Skipper,Arthropod,Threatened
+230,Oarisma Poweshiek,Poweshiek Skipperling,Arthropod,Threatened
+231,Satyrium Behrii Columbia,Columbia Subsp. Behr's Hairstreak,Arthropod,Threatened
+232,Danaus Plexippus,Monarch,Arthropod,Special Concern
+233,Limenitis Weidemeyerii,Weidemeyer's Admiral,Arthropod,Special Concern
+234,Polites Sonora,Sonora Skipper,Arthropod,Special Concern
+235,Alasmidonta Heterodon,Dwarf Wedgemussel,Mollusk,Extirpated
+236,Cryptomastix Devia,Puget Oregonian Snail,Mollusk,Extirpated
+237,Allogona Townsendiana,Oregon Forestsnail,Mollusk,Endangered
+238,Epioblasma Torulosa Rangiana,Northern Riffleshell,Mollusk,Endangered
+239,Epioblasma Triquetra,Snuffbox,Mollusk,Endangered
+240,Haliotis Kamtschatkana,Northern Abalone,Mollusk,Endangered
+241,Lamsilis Fasciola,Wavy-Rayed Lampmussel,Mollusk,Endangered
+242,Obovaria Subrotunda,Round Hickorynut,Mollusk,Endangered
+243,Physella Johnsoni,Banff Springs Snail,Mollusk,Endangered
+244,Physella Wrighti,Hotwater Physa,Mollusk,Endangered
+245,Pleurobema Sintoxia,Round Pigtoe,Mollusk,Endangered
+246,Prophysaon Coelureum,Blue-Grey Taildropper Slug,Mollusk,Endangered
+247,Ptychobranchus Fasciolaris,Kidneyshell,Mollusk,Endangered
+248,Simpsonaias Ambigua,Mudpuppy Mussel,Mollusk,Endangered
+249,Villosa Fabalis,Rayed Bean,Mollusk,Endangered
+250,Hemphillia Dromedarius,Dromedary Jumping-Slug,Mollusk,Threatened
+251,Gonidea Angulata,Rocky Mountain Ridged Mussel,Mollusk,Special Concern
+252,Lampsilis Cariosa,Yellow Lampmussel,Mollusk,Special Concern
+253,Nearctula Sp.,Threaded Vertigo,Mollusk,Special Concern
+254,Ostrea Conchaphila,Olympia Oyster,Mollusk,Special Concern
