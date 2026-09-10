@@ -7,7 +7,7 @@ Canada has endagered species that are on the verge of extinction.  Their are dif
 
 Endagered Species of Canada
 
-<img src="images/screenshot_capstone_data" alt="screenshot of data column">
+<img src="images/screenshot_capstone_data.png" alt="screenshot of data column">
 
 ## Team
 
