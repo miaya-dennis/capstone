@@ -3,7 +3,7 @@
 
 ## The Problem
 
-Unfortunately, Canada have a few endagered species on the verge of extinction.  There are different classifications and conservation statuses for each unprotected animal.  Find out more as a passtionate animal lover to see how one can participate to save our beloved animals from extinction. 
+Unfortunately, a few endagered species are on the verge of extinction in Canada.  There are different classifications and conservation statuses for each unprotected animal.  Find out more as a passtionate animal lover to see how one can participate to save our beloved animals from extinction. 
 
 Endagered Species of Canada
 
