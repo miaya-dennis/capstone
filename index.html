@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Endangered Canadian Species</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.classless.min.css">
+	<link rel="stylesheet" href="style.css"
+	
+  </head>
+  <body>
+  <header>
+  <nav>
+    <ul>
+      <li><a class= "api-datasets" href="https://student-data-api.miayadennis.workers.dev/api/v1/datasets/endangered-species-of-canada/records?limit=10">API Dataset</a></li>
+    </ul>
+  </nav>
+</header>
+    <main>
+      <h1>Save the Endangered Species Mission</h1>
+    </main>
+	<form>
+    <label>  Name
+	<input id="member-name" name="member-name" type="text">
+	</label>
+	<label>Email (News & Updates)
+	  <input id="member-email" name="member-email" type="email">
+	  </label>
+	  <label>Create password
+	    <input id="member-password" name="member-password" type="password" required>
+		<button>Join the Mission</button>
+		</label>
+  </form>
+</section>
+	<script src="script.js"></script>
+  </body>
+</html>
