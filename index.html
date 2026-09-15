@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Endangered Canadian Species</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.classless.min.css">
-	<link rel="stylesheet" href="style.css"
+	<link rel="stylesheet" href="css/hero.css">
+    <link rel="stylesheet" href="css/card.css">
+    <link rel="stylesheet" href="css/style.css">
+	
 	
   </head>
   <body>
@@ -17,9 +20,12 @@
   </nav>
 </header>
     <main>
+	<div class ="card">
       <h1>Save the Endangered Species Mission</h1>
-    </main>
+ 
+	
 	<form>
+	
     <label>  Name
 	<input id="member-name" name="member-name" type="text">
 	</label>
@@ -28,10 +34,17 @@
 	  </label>
 	  <label>Create password
 	    <input id="member-password" name="member-password" type="password" required>
-		<button>Join the Mission</button>
+		<button class="button" id ="join" type="button"> Join the Mission</button>
+		<button class="button" id="prevAnimal" type="button"> Previous Animal</button>
+		<button class="button" id="nextAnimal" type="button">Next Animal</button>
+		
 		</label>
+   
   </form>
+ 
 </section>
 	<script src="script.js"></script>
+	</div>
+	   </main>
   </body>
 </html>
