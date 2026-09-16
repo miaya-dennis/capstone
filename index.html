@@ -1,50 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Endangered Canadian Species</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.classless.min.css">
-	<link rel="stylesheet" href="css/hero.css">
-    <link rel="stylesheet" href="css/card.css">
-    <link rel="stylesheet" href="css/style.css">
-	
-	
-  </head>
-  <body>
-  <header>
-  <nav>
-    <ul>
-      <li><a class= "api-datasets" href="https://student-data-api.miayadennis.workers.dev/api/v1/datasets/endangered-species-of-canada/records?limit=10">API Dataset</a></li>
-    </ul>
-  </nav>
-</header>
-    <main>
-	<div class ="card">
-      <h1>Save the Endangered Species Mission</h1>
- 
-	
-	<form>
-	
-    <label>  Name
-	<input id="member-name" name="member-name" type="text">
-	</label>
-	<label>Email (News & Updates)
-	  <input id="member-email" name="member-email" type="email">
-	  </label>
-	  <label>Create password
-	    <input id="member-password" name="member-password" type="password" required>
-		<button class="button" id ="join" type="button"> Join the Mission</button>
-		<button class="button" id="prevAnimal" type="button"> Previous Animal</button>
-		<button class="button" id="nextAnimal" type="button">Next Animal</button>
+<!DOCTYPE HTML>
+<html lang="en" data-theme="dark">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Endangered Canadian Species</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.classless.min.css">
+		<link rel="stylesheet" href="css/hero.css">
+		<link rel="stylesheet" href="css/card.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&effect=anaglyph">
 		
-		</label>
-   
-  </form>
- 
-</section>
-	<script src="script.js"></script>
-	</div>
-	   </main>
-  </body>
+		
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ul>
+					<li><button class="button" id= "apiButton" type="button> <a class= "api-datasets" href="https://student-data-api.miayadennis.workers.dev/api/v1/datasets/endangered-species-of-canada/records?limit=10">API Dataset</a> </button></li>
+					
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<div class ="hero">
+				<h1 class= "font-effect-anaglyph"> Save the Endangered Species Mission</h1>
+				<br>
+				<br>
+				<br>
+			
+			
+		
+				<p>Extirpated:</p>
+				<p>Endangered:</p>
+				<p>Threatened:</p>
+				<p>Special Concern:</p>
+				
+				
+				<form>
+				<h1 id ="species-name-1"></h1>
+					<p id="species-1"> </p>
+					<button class="button" id="prevAnimal" type="button"> Previous Animal</button>
+					<button class="button"" id="nextAnimal" type="button">Next Animal</button>
+					
+			 </div>
+					
+					
+						<div class ="card">  
+					<h2> Sign-up </h2> <hr>
+					
+					<label>  Name
+						<input id="member-name" name="member-name" type="text">
+					</label>
+					<label>Email (News & Updates)
+						<input id="member-email" name="member-email" type="email">
+					</label>
+					<label>Create password
+						<input id="member-password" name="member-password" type="password" required>
+						<button class="button" id ="join" type="button"> Join the Mission</button>
+						
+					</label>
+					
+				</form>
+				
+			
+			<script src="script.js"></script>
+		</div>
+	</main>
+</body>
 </html>
