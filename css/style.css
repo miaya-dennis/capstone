@@ -8,7 +8,7 @@
 }
 
 .button{ 
-	font-family:anaglyph;
+	font-family:;
 	color:black;
 	background:#2FF924;
 }
@@ -19,3 +19,10 @@
 	background:#2FF924;
 	color:black;
 }
+        body {
+            font-family: 'Bungee Tint', cursive;
+            font-size: 20px;
+            text-align: center;
+            margin-top: 50px;
+        }
+
