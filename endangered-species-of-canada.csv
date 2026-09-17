@@ -1,14 +1,14 @@
 id,Scientific Name,Common Name,Class,Conservation Status,Images
-1,Eschrichtius Robustus,Atlantic Grey Whale,Mammal,Extirpated,https://en.wikipedia.org/wiki/Gray_whale#/media/File:Graywhale_MMC.jpg
-2,Mustela Nigripes,Black-Footed Ferret,Mammal,Extirpated,https://en.wikipedia.org/wiki/Black-footed_ferret#/media/File:Elizabeth_Ann_54_days_old.jpg
-3,Odobenus Rosmarus Rosmarus,Northwest Atlantic Atlantic Walrus,Mammal,Extirpated,https://en.wikipedia.org/wiki/Walrus#/media/File:Pacific_Walrus_-_Bull_(8247646168).jpg
-4,Balaenoptera Borealis,Pacific Sei Whale,Mammal,Endangered,https://en.wikipedia.org/wiki/Sei_whale#/media/File:Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg
-5,Balaenoptera Musculus,Atlantic Blue Whale,Mammal,Endangered,https://en.wikipedia.org/wiki/Blue_whale#/media/File:Bluewhale1_noaa_crop.jpg
-6,Balaenoptera Musculus,Pacific Blue Whale,Mammal,Endangered,https://en.wikipedia.org/wiki/Blue_whale#/media/File:BlueWhaleWithCalf.jpg
-7,Dipodomys Ordii,Ord's Kangaroo Rat,Mammal,Endangered,https://en.wikipedia.org/wiki/Ord%27s_kangaroo_rat#/media/File:Kangaroo-rat.jpg
-8,Eubalaena Glacialis,North Atlantic Right Whale,Mammal,Endangered,https://en.wikipedia.org/wiki/North_Atlantic_right_whale#/media/File:GRNMS_-_Right_Whales_(31361234602).jpg
-9,Eubalaena Japonica,North Pacific Right Whale,Mammal,Endangered,https://en.wikipedia.org/wiki/North_Pacific_right_whale#/media/File:Eubalaena_japonica_drawing.jpg
-10,Gulo Gulo,Eastern Wolverine,Mammal,Endangered,"https://en.wikipedia.org/wiki/Wolverine#/media/File:Wolverine,_Kristiansand_Zoo.jpg"
+1,Eschrichtius Robustus,Atlantic Grey Whale,Mammal,Extirpated,https://upload.wikimedia.org/wikipedia/commons/2/24/Graywhale_MMC.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+2,Mustela Nigripes,Black-Footed Ferret,Mammal,Extirpated,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Elizabeth_Ann_54_days_old.jpg/250px-Elizabeth_Ann_54_days_old.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+3,Odobenus Rosmarus Rosmarus,Northwest Atlantic Atlantic Walrus,Mammal,Extirpated,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Walrus_2_%286383855895%29.jpg/330px-Walrus_2_%286383855895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+4,Balaenoptera Borealis,Pacific Sei Whale,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg/330px-Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+5,Balaenoptera Musculus,Atlantic Blue Whale,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+6,Balaenoptera Musculus,Pacific Blue Whale,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/BlueWhaleWithCalf.jpg/330px-BlueWhaleWithCalf.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+7,Dipodomys Ordii,Ord's Kangaroo Rat,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kangaroo-rat.jpg/330px-Kangaroo-rat.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+8,Eubalaena Glacialis,North Atlantic Right Whale,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/GRNMS_-_North_Atlantic_Right_Whales_%2831472816856%29.jpg/330px-GRNMS_-_North_Atlantic_Right_Whales_%2831472816856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+9,Eubalaena Japonica,North Pacific Right Whale,Mammal,Endangered,https://upload.wikimedia.org/wikipedia/commons/3/37/Eubalaena_japonica_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled
+10,Gulo Gulo,Eastern Wolverine,Mammal,Endangered,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Wolverine%2C_Kristiansand_Zoo.jpg/330px-Wolverine%2C_Kristiansand_Zoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
 11,Hyperoodon Ampullatus,Scotian Shelf Northern Bottlenose Whale,Mammal,Endangered,
 12,Marmota Vancouverensis,Vancouver Island Marmot,Mammal,Endangered,
 13,Martes Americana Atrata,Newfoundland American Marten,Mammal,Endangered,

@@ -12,6 +12,8 @@ function speciesInfo() {
 	
 	species1.textContent = species[index]["Conservation Status"];
 	speciesName.textContent = species[index]["Common Name"];
+	speciesImage.src = species[index]["Images"];
+	
 }
 
 // update DOM
@@ -24,12 +26,14 @@ async function changeSpecies()  {
   
   species1.textContent = species[index]["Conservation Status"];
 	speciesName.textContent = species[index]["Common Name"];
+
   
 
   console.log("species");
 }
 
 prev.addEventListener("click", function () {
+	index = index - 1;
 	changeSpecies();
 	
 });
