@@ -4,46 +4,25 @@ let speciesName = document.getElementById("species-name-1");
 let species1 = document.getElementById("species-1");
 let speciesImage = document.getElementById("imageSpecies");
 let message = document.getElementById("specialMessage");
+const buttonStop = document.getElementById("stopButton");
 let species = [];
 let index = 0;
-
-
-/*function randomClick() {
-	let specie = species[index];
-	let randomIndex = Math.floor(Math.random() * data.length);
-
-            species1.textContent = species[index]["Conservation Status"];
-	
-
-	
-	
-	speciesName.textContent = species[index]["Common Name"];
-	speciesImage.src = species[index]["Images"];
-	
-}*/
+let timer;
 
 
 
-/*async function 2
-async function randomSpecies() {
-	let response = await fetch ("https://student-data-api.miayadennis.workers.dev/api/v1/datasets/endangered-species-of-canada/records?limit=10");
-  let data = await response.json();
-  species = data.records;
-  randomClick()
 
 
 
-  
-  species1.textContent = species[index]["Conservation Status"];
-	speciesName.textContent = species[index]["Common Name"];
-	
-}*/
+
 
 
 
 
 	
 buttonRand.addEventListener("click", async function() {
+clearInterval(timer);
+timer = setInterval(async function() {
   const response = await fetch("https://student-data-api.miayadennis.workers.dev/api/v1/datasets/endangered-species-of-canada/records?limit=10");
   const data = await response.json();
   const randomIndex = Math.floor(Math.random() * data.records.length);
@@ -59,6 +38,7 @@ buttonRand.addEventListener("click", async function() {
   "Rad! your pick was the Eubalaena Japonica as the ninth record",
   "Fantastic! your random animal was the Gulo Gulo as the tenth record",
   ];
+
   
 	  document.getElementById("species-1").textContent =
 	 data.records[randomIndex]["Conservation Status"];
@@ -71,7 +51,17 @@ buttonRand.addEventListener("click", async function() {
 	 
 	 message.textContent = 
 	 data.records[randomIndex]["id"] + " - " + messages[randomIndex];
+}, 50);
 	 
    
 });
+
+buttonStop.addEventListener("click", function () {
+	clearInterval(timer);
+
+}); 
+
+
+
+
 	
