@@ -9,8 +9,8 @@ Endagered Species of Canada
 
 <img src="images/screenshot_capstone_data.png" alt="screenshot of data column">
 
-		1.  Which classifcation of endangered species is the most threatened?
-		2.  What are some of the relative locations of the animals?
+		1.  Which species is the most endangered?
+		2.  What are some of the relative locations of the animals?(A few answer this question in the "Common Name" data.
 		3.  What are ways to help rescue the life forms?
 		
 ## Wireframe
