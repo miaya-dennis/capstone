@@ -26,3 +26,9 @@ Endagered Species of Canada
 Accountability partner: @GbengaOlagunju
 
 
+## What Changed?
+I decided to add another html to my app.  I originally thought I would add my sign-up page as the first page, but I started thinking of new ideas.  I was able to install images into my page so it could be fetched as api data as well. 
+
+
+## Reflection
+I planned to use a button to fetch the API data which I did.  I also added two more buttons to incorporate a set timer.  I added this feature to help the user find out which specific animal they could  potentially donate towards.
